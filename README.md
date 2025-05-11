@@ -46,4 +46,35 @@ Analyzing the relationships, constraints, and feasibility of requirements, often
 
 Verifying that requirements are complete, consistent, feasible, and aligned with business goals before development begins.
 
+📚 Types of Requirements
+✅ Functional Requirements
+Functional requirements define what the system should do. These are the specific behaviors or functions of the system and describe interactions between the system and its users.
+
+Examples for Booking Management System:
+
+Users can search for available rooms or services.
+
+Users can make a booking for a specific date and time.
+
+Admins can approve or cancel bookings.
+
+The system sends a confirmation email after a successful booking.
+
+Users can view and edit their booking history.
+
+⚙️ Non-functional Requirements
+Non-functional requirements define how the system performs its functions. These are constraints or quality attributes such as performance, usability, reliability, etc.
+
+Examples for Booking Management System:
+
+The system should load booking search results within 2 seconds.
+
+The application must be available 99.9% of the time.
+
+Only authorized users should be able to access booking data.
+
+The system should support up to 1,000 concurrent users.
+
+The UI must be responsive on both desktop and mobile devices.
+
 

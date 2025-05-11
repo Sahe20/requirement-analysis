@@ -23,4 +23,27 @@ Facilitates High-Quality Software Development
 
 When requirements are clear, validated, and understood, the chances of delivering a functional and bug-free product increase significantly.
 
+⚙️ Key Activities in Requirement Analysis
+The Requirement Analysis phase typically involves the following five key activities:
+
+🔍 Requirement Gathering
+
+Collecting initial requirements from all stakeholders using interviews, questionnaires, workshops, etc.
+
+🗣️ Requirement Elicitation
+
+Engaging stakeholders actively to draw out hidden, implied, or unstated needs that may not be easily documented.
+
+📝 Requirement Documentation
+
+Recording requirements in a structured and clear format, like Software Requirements Specification (SRS), user stories, or use cases.
+
+📊 Requirement Analysis and Modeling
+
+Analyzing the relationships, constraints, and feasibility of requirements, often visualized through models such as flowcharts, data flow diagrams, or UML.
+
+✅ Requirement Validation
+
+Verifying that requirements are complete, consistent, feasible, and aligned with business goals before development begins.
+
 

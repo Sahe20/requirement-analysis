@@ -110,7 +110,6 @@ Manage availability
 
 The UI must be responsive on both desktop and mobile devices.
 
-img link: https://drive.google.com/file/d/1QHErCAPJOnZ44SFHl_Da2sCqfAtAcRDs/view?usp=sharing
+img link: https://drive.google.com/file/d/1QHErCAPJOnZ44SFHl_Da2sCqfAtAcRDs/view?usp=sharing 
 
-
-
+![alx-booking-uc png](https://github.com/user-attachments/assets/b21f5cef-691b-4d3a-a1ab-a90b5345f68f) 

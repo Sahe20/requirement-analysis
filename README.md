@@ -110,6 +110,34 @@ Manage availability
 
 The UI must be responsive on both desktop and mobile devices.
 
-img link: https://drive.google.com/file/d/1QHErCAPJOnZ44SFHl_Da2sCqfAtAcRDs/view?usp=sharing 
-
 ![alx-booking-uc png](https://github.com/user-attachments/assets/b21f5cef-691b-4d3a-a1ab-a90b5345f68f) 
+
+📏 Acceptance Criteria
+What is Acceptance Criteria?
+Acceptance Criteria are predefined conditions that a product or feature must satisfy to be accepted by the user, client, or QA team. They ensure that all parties have a common understanding of what needs to be done and when the work is complete.
+
+Importance of Requirement Analysis:
+
+Clearly defines when a requirement is considered "done."
+
+Reduces ambiguity and scope creep
+
+Provides a foundation for testing
+
+Ensures stakeholder alignment and satisfaction
+
+Example – Checkout Feature in Booking Management System:
+
+Feature: Checkout
+
+As a user, I want to check out after selecting my booking so that I can confirm my reservation.
+
+**Acceptance Criteria:**
+- [ ] User must be logged in to access checkout.
+- [ ] Booking summary is displayed before confirming.
+- [ ] Payment gateway integration is available.
+- [ ] System should confirm payment success or failure.
+- [ ] Confirmation email is sent after successful payment.
+- [ ] User is redirected to a thank-you page.
+
+

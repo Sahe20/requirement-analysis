@@ -75,6 +75,42 @@ Only authorized users should be able to access booking data.
 
 The system should support up to 1,000 concurrent users.
 
+🎯 Use Case Diagrams
+What are Use Case Diagrams?
+Use Case Diagrams are visual representations of user interactions (called actors) and the system. They show the various actions (use cases) each actor can perform and help stakeholders understand the system's behavior at a glance.
+
+Benefits:
+
+Clarify system scope and user interactions
+
+Help identify functional requirements early
+
+Foster communication between technical and non-technical stakeholders
+
+Booking System – Use Case Diagram
+Actors:
+
+User
+
+Admin
+
+Use Cases:
+
+Search for rooms
+
+Book a room
+
+View booking history
+
+Cancel booking
+
+Approve/decline booking
+
+Manage availability
+
 The UI must be responsive on both desktop and mobile devices.
+
+img link: https://drive.google.com/file/d/1QHErCAPJOnZ44SFHl_Da2sCqfAtAcRDs/view?usp=sharing
+
 
 
